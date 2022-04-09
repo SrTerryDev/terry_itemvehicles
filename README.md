@@ -1,6 +1,3 @@
-# terry_itemvehicles
-
-
 script basico de vehiculo mediante item
 
 web de los vehiculos : https://wiki.rage.mp/index.php?title=Vehicles
