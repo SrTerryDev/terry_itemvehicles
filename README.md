@@ -2,6 +2,8 @@ script basico de vehiculo mediante item
 
 web de los vehiculos : https://wiki.rage.mp/index.php?title=Vehicles
 
+VIDEO: https://youtu.be/mm3rX80QFzk
+
 Sean libres de utilizar el codigo a su gusto
 
 si quieres que al usar el item salga la notificacion de el framework ESX.. inserte el siguiente codigo
